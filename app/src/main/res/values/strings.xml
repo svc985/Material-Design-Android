@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="activity_name">Main Activity</string>
+    <string name="new_game">new_game</string>
+    <string name="next">Next</string>
+    <string name="sub_activity">Sub Activity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
